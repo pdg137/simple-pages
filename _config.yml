@@ -17,8 +17,8 @@ title: Simple pages site template
 email: my initials at alum.mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Simple pages site template description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pdg137
 github_username:  pdg137
 
