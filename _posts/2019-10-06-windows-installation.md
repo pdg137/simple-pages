@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Windows Installation"
+title:  "Windows installation"
 date:   2019-10-06 10:52:04 -0700
-categories: jekyll update
+categories: windows
 ---
 Basic instructions for GitHub pages are [here](https://help.github.com/en/articles/testing-your-github-pages-site-locally-with-jekyll).
 
