@@ -33,6 +33,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Pages to show in header
+header_pages:
+  - pages/example/index.md
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
