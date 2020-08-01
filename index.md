@@ -13,6 +13,8 @@ You can add static content here or compose blog posts in the `_posts/` folder.
 [Here is an example link](pages/example) to another page that has information on
 formatting.
 
-You can also customize `favicon.ico` with help from a site like
+Check `_config.yml` for site-specific customizations.
+
+You can also make your own `favicon.ico` icon with help from a site like
 [RealFaviconGenerator](https://realfavicongenerator.net/) or
 [favicon.io](https://favicon.io/).
