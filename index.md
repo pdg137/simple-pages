@@ -5,6 +5,7 @@ title: Simple pages - main page
 
 This site is a template that you can copy to get started publishing your own
 sites online using GitHub Pages.
+[See source code here.](https://github.com/pdg137/simple-pages)
 
 See the posts below for help getting your own site running.
 
