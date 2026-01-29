@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Windows installation"
+title:  "(Outdated) Windows installation"
 date:   2019-10-06 10:52:04 -0700
 categories: windows
 ---
