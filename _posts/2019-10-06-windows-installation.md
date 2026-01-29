@@ -4,6 +4,10 @@ title:  "Windows installation"
 date:   2019-10-06 10:52:04 -0700
 categories: windows
 ---
+
+***2026-01-29 note:** I no longer recommend running simple-pages from
+Windows directly. It's much easier to run in WSL.*
+
 Basic instructions for GitHub pages are [here](https://help.github.com/en/articles/testing-your-github-pages-site-locally-with-jekyll).
 
 1. Learn how to use a good text editor. Good choices:
